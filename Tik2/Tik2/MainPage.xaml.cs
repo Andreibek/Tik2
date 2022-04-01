@@ -151,7 +151,7 @@ namespace Tik2
 
         public IList<string> Mp3List => new[]
         {
-            "https://retrowave.ru/"
+            "https://ia800605.us.archive.org/32/items/Mp3Playlist_555/CelineDion-IfICould.mp3"
         };
 
         //public Media_Page()
